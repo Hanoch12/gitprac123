@@ -2,7 +2,7 @@ Class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello friends”);
+System.out.println(“hello from master origin”);
 }
 }
 
